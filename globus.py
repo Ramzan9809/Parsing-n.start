@@ -22,6 +22,9 @@ with open('meats.txt', 'a', encoding='utf-8') as file:
 
 # задача
 
+link = 'https://globus-online.kg/catalog/napitki/kola_limonady_kvas/'
+site = requests.get(link)
+html = BeautifulSoup(site.content, 'html.parser')
 main_api = 'https://globus-online.kg/catalog/napitki/kola_limonady_kvas/'
 
 names = html.find_all('div', class_='list-showcase__name')

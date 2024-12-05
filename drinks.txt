@@ -1,16 +1,20 @@
-Мясо баранина ребра вес - 484 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_baranina_rebra_ves/ 
-Мясо говядина голень без костей - 670 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_golen_bez_kostey/ 
-Мясо говядина грудинка - 569 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_grudinka/ 
-Мясо говядина ребра - 559 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_rebra/ 
-Мясо говядина стейк - 599 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_steyk/ 
-Фарш Tasty говяжий 450г - 238 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_tasty_govyazhiy_450g/ 
-Фарш говяжий диетический - 669 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_govyazhiy_dieticheskiy/ 
-Фарш говяжий средней жирности - 539 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_govyazhiy_sredney_zhirnosti/ 
-Мясо баранина ребра вес - 484 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_baranina_rebra_ves/ 
-Мясо говядина голень без костей - 670 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_golen_bez_kostey/ 
-Мясо говядина грудинка - 569 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_grudinka/ 
-Мясо говядина ребра - 559 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_rebra/ 
-Мясо говядина стейк - 599 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/myaso_govyadina_steyk/ 
-Фарш Tasty говяжий 450г - 238 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_tasty_govyazhiy_450g/ 
-Фарш говяжий диетический - 669 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_govyazhiy_dieticheskiy/ 
-Фарш говяжий средней жирности - 539 сом/кг - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/myaso_ptitsa_ryba/govyadina_baranina_farshi/farsh_govyazhiy_sredney_zhirnosti/ 
+Квас Первоквас классический 1,5л  - 72.29 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/kvas_pervokvas_klassicheskiy_1_5l_/ 
+Квас Русский 1,5л п/б  - 58.49 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/kvas_russkiy_1_5l_p_b_/ 
+Квас Шоро 1л - 83 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/kvas_shoro_1l_p_b/ 
+Лимонад  Мартин виноград  0,5л ст/б - 80 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_martin_vinograd_0_5l_st_b/ 
+Лимонад  Мартин мохито 0,5л ст/б - 80 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_martin_mokhito_0_5l_st_b/ 
+Лимонад  Мартин тархун 0,5л ст/б - 80 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_martin_tarkhun_0_5l_st_b/ 
+Лимонад Aqua Life Байкал 0,5л - 75.29 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_napitki_iz_chernogolovki_baykal_0_5l_/ 
+Лимонад Aqua Life Байкал 2л - 128.5 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_iz_chernogolovki_baykal_2l_p_b/ 
+Лимонад Aqua Life Буратино 1л - 109 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_buratino_1l/ 
+Лимонад Aqua Life Дюшес 0,5л - 75.29 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_dyushes_0_5l_/ 
+Лимонад Aqua Life Дюшес 1л - 109 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_dyushes_1l_/ 
+Лимонад Aqua Life Дюшес 2л - 128.5 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_dyushes_2l_/ 
+Лимонад Aqua Life Крюшон 2л - 128.5 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_napitki_iz_chernogolovki_kryushon_2l_/ 
+Лимонад Aqua Life Лимонад 0,5л - 75.29 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_limonad_0_5l_st_b_/ 
+Лимонад Aqua Life Лимонад 1л - 109 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_limonad_1l_/ 
+Лимонад Aqua Life Лимонад 2л - 128.5 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_napitki_iz_chernogolovki_limonad_2l_/ 
+Лимонад Aqua Life Тархун 0,5л - 75.29 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_tarkhun_0_5l_/ 
+Лимонад Aqua Life Тархун 1л - 109 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_tarkhun_1l_/ 
+Лимонад Aqua Life Тархун 2л - 128.5 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_aqua_life_tarkhun_2l_/ 
+Лимонад Дюшес газированный 1л - 52 сом/шт - https://globus-online.kg/catalog/napitki/kola_limonady_kvas//catalog/napitki/kola_limonady_kvas/limonad_dyushes_gazirovannyy_1l_1/ 
